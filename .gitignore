@@ -1,0 +1,10 @@
+# Windows executables
+*.exe
+
+# macOS debug symbols and binaries
+*.dSYM/
+*.out
+
+# General build artifacts
+*.o
+*.obj

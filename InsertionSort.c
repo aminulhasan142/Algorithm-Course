@@ -40,5 +40,11 @@ int main()
 
     return 0;
 }
+int check()
+{
+    int p;
+    if (2 == 2)
+        return p;
+}
 
 /* This code is contributed by Hritik Shah. */

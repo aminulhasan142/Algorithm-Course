@@ -47,4 +47,4 @@ int check()
         return p;
 }
 
-/* This code is contributed by Hritik Shah. */
+/* This code is contributed by shoukhin. */
